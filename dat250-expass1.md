@@ -21,4 +21,4 @@ Did not encounter any problems with heroku.
 ## Any pending issues with this assignment which you did not manage to solve
 Installed postgreSQG and checked the install, but I didnt find a way to test it.
 
-https://dat250-jonas.herokuapp.com/
+https://vast-ocean-53210.herokuapp.com/
